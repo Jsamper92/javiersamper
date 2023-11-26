@@ -55,7 +55,7 @@
   <summary>:zap: GitHub Stats</summary>
     <a href="https://github.com/Jsamper92/github-readme-stats">
       <img align="left" alt="javiersamper's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jsamper92&show_icons=true&hide_border=true&theme=radical" />
-    </a>https://github-readme-stats.vercel.app
+    </a>
   <br>
   <a href="https://github.com/Jsamper92/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsamper92&layout=compact&theme=radical&hide_border=true" />
