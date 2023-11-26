@@ -24,7 +24,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-  ![Stencil.js](https://img.shields.io/badge/-Stencil-333333?style=flat&logo=stencil)
+  ![Stencil.js](https://img.shields.io/badge/-Stencil-333333?style=flat&logo=stencil.js)
   ![Next.js](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=nextjs)
   ![PostCSS](https://img.shields.io/badge/-PostCSS-333333?style=flat&logo=postcss)
   ![Vercel](https://img.shields.io/badge/-vercel-333333?style=flat&logo=vercel)
@@ -47,7 +47,6 @@
 
 
   ## 📊 Estadísticas
-<details>
   <summary>:zap: GitHub Stats</summary>
     <a href="https://github.com/Jsamper92/github-readme-stats">
       <img align="left" alt="javiersamper's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jsamper92&show_icons=true&hide_border=true&theme=radical" />
@@ -56,10 +55,4 @@
   <a href="https://github.com/Jsamper92/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsamper92&layout=compact&theme=radical&hide_border=true" />
   </a>
-</details>
-
- 
- <br>
-    <img alt="Codificación nocturna" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left" style="max-width: 100%; display: inline-block;">
-</br>
  
